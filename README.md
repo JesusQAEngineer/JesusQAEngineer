@@ -33,22 +33,24 @@ Specialized in **UI and API test automation**, building reliable test frameworks
 
 ### 🚀 Featured Projects
 
-🔹 **UI Automation Framework (Playwright)**  
-https://github.com/JesusQAEngineer/benefits-dashboard-ui-automation-playwright
+#### UI Automation Framework
+Playwright automation framework validating the Benefits Dashboard application with Page Object Model and financial business rule validation.
 
-🔹 **API Automation Framework (Postman + Newman)**  
-https://github.com/JesusQAEngineer/benefits-dashboard-api-automation
-
-🔹 **QA Testing Challenge**  
-https://github.com/JesusQAEngineer/benefits-dashboard-testing-challenge
+🔗 [View Repository](https://github.com/JesusQAEngineer/benefits-dashboard-ui-automation-playwright)
 
 ---
 
-### QA Testing Challenge
+#### API Automation Framework
+Automated API test framework using **Postman + Newman CLI**, validating CRUD operations and financial benefit calculations.
+
+🔗 [View Repository](https://github.com/JesusQAEngineer/benefits-dashboard-api-automation)
+
+---
+
+#### QA Testing Challenge
 Bug analysis, UI testing findings, and automation strategy for the Benefits Dashboard system.
 
-🔗  
-https://github.com/JesusQAEngineer/benefits-dashboard-testing-challenge
+🔗 [View Repository](https://github.com/JesusQAEngineer/benefits-dashboard-testing-challenge)
 
 ---
 
